@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am Michael :high_brightness:, a frontend developer -----</> 
 
 <!--
 **sun-michael/sun-michael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
